@@ -2,7 +2,7 @@
 
 MarkdownとちょっとのRST記法でB5の同人誌PDFを生成する
 
-関連記事：[Markdownでオフセット同人誌を刷るまで](https://www.gensobunya.net/portfolio/md2doujin/)
+関連記事：[Markdownでオフセット同人誌を刷るまで](https://gensobunya-tech.hatenablog.com/entry/2018/12/20/000000)
 
 ## 構成
 
